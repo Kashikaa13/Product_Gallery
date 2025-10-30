@@ -72,7 +72,3 @@ A simple and interactive **Product Gallery** built using HTML, CSS, and JavaScri
 This project is licensed under the MIT License.
 
 ---
-
-## Author
-
-[Khushin Vyas](https://github.com/khushinvyas)
